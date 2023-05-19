@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{1613DB97-4683-4127-A889-0969F895EA1D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Palindrone.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PalindromeExercise PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
